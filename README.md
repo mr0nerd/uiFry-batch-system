@@ -15,7 +15,7 @@ Welcome to the `uiFry` landing page project! This beautiful and responsive landi
 
 ## Demo
 
-Check out the live demo of the project [here](#).
+Check out the live demo of the project [https://ui-fry-batch-system.vercel.app](#).
 
 ## Getting Started
 
